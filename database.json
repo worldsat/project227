@@ -1,0 +1,117 @@
+{
+  "Banner": [
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741202773/banner_1_vqsiey.png"
+    },
+    {
+      "url": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741337427/banner_2_ikyyvu.png"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "title": "All"
+    },
+    {
+      "id": 1,
+      "title": "Women"
+    },
+    {
+      "id": 2,
+      "title": "Men"
+    },
+    {
+      "id": 3,
+      "title": "Shoes"
+    },
+    {
+      "id": 4,
+      "title": "Kids"
+    }
+  ],
+  "Items": [
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "oldPrice": 45,
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201929/shoes1_jpoyjw.png"
+      ],
+      "price": 35,
+      "rating": 4.6,
+      "offPercent":"30%",
+      "size": ["41","41","42","44"],
+      "color": ["#006fc4","#daa048","#398d41","#0c3c72"],
+      "review": 10,
+      "title": "Casual Shoes for Men"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "oldPrice": 65,
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741202381/men9_hamdep.png"
+      ],
+      "price": 55,
+      "rating": 4.1,
+      "offPercent":"25%",
+      "size": ["M","L","XL","XXL"],
+      "color": ["#006fc4","#daa048","#398d41","#0c3c72"],
+      "review": 45,
+      "title": "Stylish Plaid Coat"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "oldPrice": 90,
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201943/t1_nsn7my.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201934/t2_unxcdt.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201943/t3_n8re96.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201950/t4_v8wlyn.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201952/t5_lfghcj.png"
+
+      ],
+      "price": 75,
+      "rating": 4.5,
+      "offPercent":"15%",
+      "size": ["M","L","XL","XXL"],
+      "color": ["#006fc4","#daa048","#398d41","#0c3c72"],
+      "review": 10,
+      "title": "Essentials Mens T-Shirts"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "oldPrice": 50,
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201959/c5_xjq3is.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201942/c3_pv8oje.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201936/c4_blerim.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201926/c1_svzikr.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201944/c2_wkgqzo.png"
+      ],
+      "price": 40,
+      "rating": 4.2,
+      "offPercent":"30%",
+      "size": ["M","L","XL","XXL"],
+      "color": ["#006fc4","#daa048","#398d41","#0c3c72"],
+      "review": 2,
+      "title": "Hihawk Men's Slim Fit Blazer"
+    },
+    {
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. ",
+      "oldPrice": 48,
+      "picUrl": [
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201960/s4_jkml5e.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201953/s5_ix8ad7.jpg",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201949/s1_uqjjq9.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201953/s3_etkpn1.png",
+        "https://res.cloudinary.com/dkikc5ywq/image/upload/v1741201928/s5_fj15qf.png"
+      ],
+      "price": 39,
+      "rating": 4.4,
+      "offPercent":"30%",
+      "size": ["41","42","43","44"],
+      "color": ["#006fc4","#daa048","#398d41","#0c3c72"],
+      "review": 9,
+      "title": "Brown Shoes"
+    }
+  ]
+}
